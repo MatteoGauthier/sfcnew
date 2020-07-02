@@ -234,6 +234,6 @@ export default connect(mapStateToProps, mapDispatchToProps)($filename)`,
 
 const mapDispatchToProps = {}`,
   },
-}
+};
 
 export default presets;
